@@ -56,12 +56,6 @@ I am an Assistant Professor of Social Work with a strong interest in **computati
 
 ---
 
-## 📈 Demo Screenshot
-
-![Portfolio Preview](./readme-images/desktop.png)
-
----
-
 ## ⚙️ Run Locally
 
 To run this portfolio locally:
