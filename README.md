@@ -1,56 +1,71 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+# 👨‍🏫 Md Shafiullah  
+### Assistant Professor | Social Work Researcher | Data Analyst  
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+![GitHub repo size](https://img.shields.io/github/repo-size/shafi1987/portfolio)
+![GitHub stars](https://img.shields.io/github/stars/shafi1987/portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shafi1987/portfolio?style=social)
 
-  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+<br/>
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+📊 *Using data and research to solve real-world social problems*
+
+<a href="https://shafi1987.github.io/"><strong>➥ Live Portfolio Website</strong></a>
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 📌 About Me
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+I am an Assistant Professor of Social Work with a strong interest in **computational social research and data-driven policy analysis**. My work focuses on understanding and addressing social challenges using quantitative methods and modern analytical tools.
 
-### Prerequisites
+### 🎯 Research Interests
+- Child & Family Welfare  
+- Mental Health & Health Disparities  
+- Social Policy & Development  
+- Computational Social Science  
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🛠️ Skills & Tools
 
-### Run Locally
+- **Programming:** Python, R  
+- **Data Analysis:** Pandas, NumPy, SPSS  
+- **Visualization:** Matplotlib, Seaborn  
+- **Research Methods:** Survey Analysis, Regression, Statistical Modeling  
+- **Other Tools:** Git, GitHub, Excel  
 
-To run **jack-portfolio** locally, run this command on your git bash:
+---
 
-Linux and macOS:
+## 📂 Featured Projects
+
+### 🔬 Childcare Policy Analysis (Bangladesh)
+- Analysis of urban childcare challenges  
+- Data-driven insights for policy improvement  
+- Tools: Python, SPSS  
+
+### 🧠 Mental Health Data Analysis
+- Identifying social determinants of mental health  
+- Visualization of key risk factors  
+
+### 📊 Social Research Data Lab
+- Collection of statistical and data analysis projects  
+- Includes regression, visualization, and survey data  
+
+---
+
+## 📈 Demo Screenshot
+
+![Portfolio Preview](./readme-images/desktop.png)
+
+---
+
+## ⚙️ Run Locally
+
+To run this portfolio locally:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/shafi1987/portfolio.git
+cd portfolio
